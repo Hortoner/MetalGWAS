@@ -19,8 +19,9 @@
 <br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、在进行meta分析前，确保所有输入GWAS数据具有相同列名，并检查数据完整性，否则会导致分析失败；**
 <br>
-**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、输入文件的路径不能含有中文、空格或特殊符号！**
-<br><br>
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、输入文件的路径不能含有中文、空格或特殊符号；**
+<br>
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、目前该R语言包仅支持Windows与Linux系统。**
 <br><br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、安装R包**
 
