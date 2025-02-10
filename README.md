@@ -105,5 +105,5 @@ head(dat_meta)
 
   - MRE随机效应模型（效应大小与固定效应值相同，为`Effect`）：`StdErrMRE`（MRE标准误差），`PvalueMRE`（MRE的p值）
 <br><br>
-**更多Post GWAS内容，请关注微信公众号: 落叶随风的笔记 [https://mp.weixin.qq.com/s/U45PmUPSLI0nkDdIn027Tg](https://mp.weixin.qq.com/s/SepaIUWmwXjCO0bhsgXImA?token=2116575242&lang=zh_CN)**
+**更多Post GWAS内容，请关注微信公众号: 落叶随风的笔记 https://mp.weixin.qq.com/s/SepaIUWmwXjCO0bhsgXImA?token=2116575242&lang=zh_CN**
 <br><br><br>
