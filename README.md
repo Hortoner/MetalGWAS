@@ -39,6 +39,7 @@ library(MetalGWAS)
 ```
 
 <br>
+
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、加载示例数据**
 
 ```r
