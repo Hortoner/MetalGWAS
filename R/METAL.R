@@ -10,7 +10,7 @@
 #' @param beta_col 必填，β值列的名称。
 #' @param se_col 必填，标准误差列的名称。
 #' @param pval_col 必填，P值列的名称。
-#' @param eaf_col 非必填，效应等位基因频率列的名称；若缺失eaf值，请将设置Average_FREQ = FALSE。
+#' @param eaf_col 非必填，效应等位基因频率列的名称；若缺失eaf值，请设置Average_FREQ = FALSE。
 #' @param samplesize_col 必填，样本量列的名称。
 #' @param analysis_method "SE"或"samplesize"，SE表示逆方差加权法-IVW，samplesize表示基于样本量加权。
 #' @param IVW_mode 逆方差加权法-IVW分析模式，默认随机效应模型 "Multiplicative"，固定效应模型填 "Fixed"。

@@ -46,7 +46,7 @@ METAL(
 
 \item{pval_col}{必填，P值列的名称。}
 
-\item{eaf_col}{非必填，效应等位基因频率列的名称；若缺失eaf值，请将设置Average_FREQ = FALSE。}
+\item{eaf_col}{非必填，效应等位基因频率列的名称；若缺失eaf值，请设置Average_FREQ = FALSE。}
 
 \item{samplesize_col}{必填，样本量列的名称。}
 
