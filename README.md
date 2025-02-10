@@ -107,6 +107,6 @@ head(dat_meta)
 <br><br>
 **更多Post GWAS内容，请关注微信公众号: 落叶随风的笔记**
 <br>
-**MetalGWAS—R 语言包实现Metal软件进行GWAS-meta分析：
-https://mp.weixin.qq.com/s/SepaIUWmwXjCO0bhsgXImA?token=2116575242&lang=zh_CN**
+**MetalGWAS—R 语言包实现Metal软件进行GWAS-meta分析：**
+**https://mp.weixin.qq.com/s/SepaIUWmwXjCO0bhsgXImA?token=2116575242&lang=zh_CN**
 <br><br><br>
