@@ -5,9 +5,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用METAL软件对全基因组关联研究(GWAS)数据进行META分析
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;具体细节，可查看软件官网（仅支持固定效应模型分析）:
+<br>
 http://www.sph.umich.edu/csg/abecasis/Metal/
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gibran Hemani对原始版本进行了修改，使其能够支持随机效应模型分析，详见：
+<br>
 https://github.com/explodecomputer/random-metal
 <br><br>
 
