@@ -15,7 +15,7 @@
 
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注意：**
 <br>
-**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、合并较大或者多个GWAS时，请保存计算机有足够的运行内存；**
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、合并较大或者多个GWAS时，请保证计算机有足够的运行内存；**
 <br>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、在进行meta分析前，确保所有输入GWAS数据具有相同列名，并检查数据完整性，否则会导致分析失败；**
 <br>
